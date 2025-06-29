@@ -18,9 +18,7 @@ Wireframes can be classified into two main types:
 - Low-Fidelity Wireframes: Simple sketches or basic digital outlines focusing on layout and structure without details or styling. Used early in the design process to quickly explore ideas and gather feedback.
 - High-Fidelity Wireframes: More detailed and polished versions that include finer layout details, interaction elements, and sometimes colors and typography. Used later to simulate the final product closer before development.
 
-Type of Wireframe Here: *(You can specify which wireframe your project or example uses, e.g., low-fidelity for early concepts or high-fidelity for detailed design validation.)*
-
----
+Type of Wireframe Here: This wireframe is a High-Fidelity Wireframe, as it includes detailed layouts, interactive elements, and closely represents the final design.
 
 ## Wireframing Tools
 
